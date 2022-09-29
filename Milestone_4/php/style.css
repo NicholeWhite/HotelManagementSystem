@@ -1,0 +1,29 @@
+* {
+    /* margin: 0; */
+    /* padding: 0; */
+}
+
+.navbar {
+    overflow: hidden;
+    margin:0;
+    background-color: rgb(20, 26, 80);
+    position: sticky;
+    position: -webkit-sticky;
+    top: 0;
+}
+
+.navbar a {
+    float: left;
+    display: block;
+    color: white;
+    text-align: start;
+    padding: 15px 30px;
+    text-decoration: none;
+}
+
+
+text {
+    margin: 0;
+    padding: 100px;
+}
+
